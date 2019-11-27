@@ -1,4 +1,4 @@
-#Looping
+# Looping
 
 In programming, any time we need a statement to repeat, we use a construct called a __loop__. Loops are used to [iterate](https://www.merriam-webster.com/dictionary/iteration), or perform an action repeatedly. 
 

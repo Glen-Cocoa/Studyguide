@@ -45,7 +45,7 @@ which is shorthand for
 ```
     5 = 5 + 1
 ```
-##Decrement
+## Decrement
 Shorthand for decreasing a numeric value by one.
 ```
     5-- === 4 //true
@@ -58,20 +58,20 @@ which is shorthand for
 ```
     5 = 5 - 1
 ```
-##Negation
+## Negation
 Used to negate, or flip the value of whatever it is applied to.
 ```
     !true === false //true
     !false === true //true
 ```
-##Assignment
+## Assignment
 Used to _assign_ a value.
 ```
     const myValue = 10
     
     myValue === 10 //true
 ```
-##Comparison/Equality Check
+## Comparison/Equality Check
 Used to see if two values are the same. Double equals checks if value is a match. Triple equals checks for a match of value _and_ type. For this reason triple equals is _almost always_ prefereable.
 ```
     let numValue = 1
