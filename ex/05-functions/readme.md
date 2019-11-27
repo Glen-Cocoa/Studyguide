@@ -1,6 +1,4 @@
-
-
-#Functions
+# Functions
 Functions are the meat and potatos of JavaScript development. They are a way of defining a set of operations to be performed that can then be called or _invoked_ again without having to repeat the same logic. Functions are noted by the syntax:
 ```
     function myFunction (){
@@ -11,7 +9,7 @@ Functions are the meat and potatos of JavaScript development. They are a way of 
 ```
 This function would be be callable, or _invokeable_ using the syntax `myFunction()` which would print to the console `running!`
 
-##Arguments/Parameters
+## Arguments/Parameters
 
 When using functions, sometime we want to be able to have our program determine a target value inside of a function dynamically. To do so, we define our function with arguments/parameters following the syntax
 ```
@@ -36,7 +34,7 @@ would print `any string value` to the console
 
 functions can be defined with multiple parameters, of any data type.
 
-##Scope
+## Scope
 
 Scope is a complex topic, but to start you can think of it as what logic can access what values. In JavaScript there is _local_ scope and _global_ scope. A value that has _global_ scope is accessible from anywhere (and generally bad practice. If you'd like to know why, read [this](https://dev.to/mervinsv/why-global-variables-are-bad-4pj) article). A value that has local scope is only accessible from within the function in which it is declared.
 ```
@@ -78,7 +76,7 @@ calling `funcOne()` would print out `'value'` to the console. It is better pract
 ```
 Functions can be chained together in the above example to make sure actions are taken is a specific order, and doing so generally makes for more organized, easier to read code.
 
-##Callback Functions
+## Callback Functions
 This section is taken directly from the dusty-learning JS supplement repo [here](https://github.com/dusty-learning/supplement/tree/master/JavaScript/Functions), which is an extremely detailed and helpful resource. I would highly recommend going over everything he has included.
 
 So another use for functions is what's known as a callback function. These are functions that are triggered once the called function finishes. (Sounds confusing I know)

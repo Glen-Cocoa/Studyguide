@@ -29,5 +29,5 @@ Window
                 adding data
                 removing data
 
-#Manipulating the DOM with JavaScript
+# Manipulating the DOM with JavaScript
 
