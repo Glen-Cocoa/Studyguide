@@ -3,7 +3,7 @@
 JavaScript is a _dynamically typed_ language. What this means, is when a variable is declared you do not have to tell the computer what _type_ will be stored inside of it, JavaScript will _dynamically_ determine this.
 
 ## Types in JS
-There are six different _primitive_ types in JavaScript. A _primitive_ type does is simply a stored value. _Non-primitive_ types like Object or Array store data in more complex structures and offer additional functionality, like [Array.keys()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/keys)
+There are six different _primitive_ types in JavaScript. A _primitive_ type is simply a stored value. _Non-primitive_ types like Object or Array store data in more complex structures and offer additional functionality, like [Array.keys()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/keys)
 
 ## Primitive Types
 The six primitive types in JavaScript are as follows;
